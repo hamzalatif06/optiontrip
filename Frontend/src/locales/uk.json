@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "Головна",
+    "about": "Про нас",
+    "tours": "Тури",
+    "destinations": "Напрямки",
+    "blog": "Блог",
+    "contact": "Зв'язатися з нами",
+    "login": "Вхід/Реєстрація",
+    "search": "Пошук",
+    "follow": "Підписатися",
+    "followOnInstagram": "Підписатися в Instagram",
+    "quickLinks": "Швидкі посилання",
+    "categories": "Категорії",
+    "travel": "Подорожі",
+    "newsletter": "Новинна розсилка",
+    "privacyPolicy": "Політика конфіденційності",
+    "termsConditions": "Умови використання",
+    "customerService": "Обслуговування клієнтів",
+    "allRightsReserved": "Всі права захищені",
+    "emailAddress": "Адреса електронної пошти",
+    "subscribe": "Підписатися",
+    "language": "Мова"
+  },
+  "header": {
+    "location": "Голівуд, Америка",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "Досліджуйте світ",
+    "planDreamTrip": "Почніть планувати свою мрію подорож сьогодні!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "Кемпінг",
+    "hiking": "Піші походи",
+    "beachTours": "Пляжні тури",
+    "surfing": "Серфінг",
+    "safari": "Сафарі",
+    "cycling": "Велоспорт",
+    "trekings": "Треккінг"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "Поштова скринька",
+    "location": "Місцезнаходження",
+    "email": "Електронна пошта",
+    "website": "Веб-сайт",
+    "newsletterDescription": "Приєднайтеся до нашої спільноти понад 200 000 читачів по всьому світу, які отримують електронні листи з новинами, акціями та іншими цікавими матеріалами.",
+    "copyright": "OptionTrip. Всі права захищені."
+  },
+  "discountAction": {
+    "loveGoing": "Любіть, куди ви йдете",
+    "exploreLife": "Досліджуйте своє життя,",
+    "travelWant": "Подорожуйте, куди хочете!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "Англійська",
+    "ru": "Російська",
+    "de": "Німецька",
+    "fr": "Французька",
+    "it": "Італійська",
+    "es": "Іспанська",
+    "pl": "Польська",
+    "uk": "Українська",
+    "tr": "Турецька",
+    "hu": "Угорська",
+    "sv": "Шведська",
+    "pt": "Португальська",
+    "sr": "Сербська",
+    "ar": "Арабська",
+    "zh": "Китайська",
+    "ja": "Японська",
+    "vi": "В'єтнамська",
+    "th": "Тайська",
+    "ko": "Корейська",
+    "hi": "Хінді",
+    "bn": "Бенгальська",
+    "id": "Індонезійська"
+  }
+}
+

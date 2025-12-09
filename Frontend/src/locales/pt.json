@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "Início",
+    "about": "Sobre nós",
+    "tours": "Passeios",
+    "destinations": "Destinos",
+    "blog": "Blog",
+    "contact": "Contate-nos",
+    "login": "Entrar/Registrar",
+    "search": "Pesquisar",
+    "follow": "Seguir",
+    "followOnInstagram": "Seguir no Instagram",
+    "quickLinks": "Links rápidos",
+    "categories": "Categorias",
+    "travel": "Viagem",
+    "newsletter": "Boletim informativo",
+    "privacyPolicy": "Política de privacidade",
+    "termsConditions": "Termos e condições",
+    "customerService": "Atendimento ao cliente",
+    "allRightsReserved": "Todos os direitos reservados",
+    "emailAddress": "Endereço de e-mail",
+    "subscribe": "Inscrever-se",
+    "language": "Idioma"
+  },
+  "header": {
+    "location": "Hollywood, América",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "Explore o mundo",
+    "planDreamTrip": "Comece a planejar sua viagem dos sonhos hoje!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "Camping",
+    "hiking": "Caminhada",
+    "beachTours": "Passeios na praia",
+    "surfing": "Surfe",
+    "safari": "Safari",
+    "cycling": "Ciclismo",
+    "trekings": "Trekking"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "Caixa postal",
+    "location": "Localização",
+    "email": "E-mail",
+    "website": "Site",
+    "newsletterDescription": "Junte-se à nossa comunidade de mais de 200.000 leitores globais que recebem e-mails cheios de notícias, promoções e outras coisas interessantes.",
+    "copyright": "OptionTrip. Todos os direitos reservados."
+  },
+  "discountAction": {
+    "loveGoing": "Ame para onde você vai",
+    "exploreLife": "Explore sua vida,",
+    "travelWant": "Viaje para onde quiser!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "Inglês",
+    "ru": "Russo",
+    "de": "Alemão",
+    "fr": "Francês",
+    "it": "Italiano",
+    "es": "Espanhol",
+    "pl": "Polonês",
+    "uk": "Ucraniano",
+    "tr": "Turco",
+    "hu": "Húngaro",
+    "sv": "Sueco",
+    "pt": "Português",
+    "sr": "Sérvio",
+    "ar": "Árabe",
+    "zh": "Chinês",
+    "ja": "Japonês",
+    "vi": "Vietnamita",
+    "th": "Tailandês",
+    "ko": "Coreano",
+    "hi": "Hindi",
+    "bn": "Bengali",
+    "id": "Indonésio"
+  }
+}
+

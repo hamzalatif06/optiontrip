@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "tours": "Turlar",
+    "destinations": "Yerler",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "login": "Giriş/Kayıt",
+    "search": "Ara",
+    "follow": "Takip Et",
+    "followOnInstagram": "Instagram'da Takip Et",
+    "quickLinks": "Hızlı Bağlantılar",
+    "categories": "Kategoriler",
+    "travel": "Seyahat",
+    "newsletter": "Bülten",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsConditions": "Şartlar ve Koşullar",
+    "customerService": "Müşteri Hizmetleri",
+    "allRightsReserved": "Tüm hakları saklıdır",
+    "emailAddress": "E-posta Adresi",
+    "subscribe": "Abone Ol",
+    "language": "Dil"
+  },
+  "header": {
+    "location": "Hollywood, Amerika",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "Dünyayı Keşfedin",
+    "planDreamTrip": "Hayalinizdeki Gezisini Bugün Planlamaya Başlayın!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "Kamp",
+    "hiking": "Yürüyüş",
+    "beachTours": "Plaj Turları",
+    "surfing": "Sörf",
+    "safari": "Safari",
+    "cycling": "Bisiklet",
+    "trekings": "Trekking"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "Posta Kutusu",
+    "location": "Konum",
+    "email": "E-posta",
+    "website": "Web Sitesi",
+    "newsletterDescription": "Haberler, promosyonlar ve diğer ilginç içeriklerle dolu e-postalar alan 200.000'den fazla küresel okuyucu topluluğumuza katılın.",
+    "copyright": "OptionTrip. Tüm hakları saklıdır."
+  },
+  "discountAction": {
+    "loveGoing": "Gittiğiniz Yeri Sevin",
+    "exploreLife": "Hayatınızı Keşfedin,",
+    "travelWant": "İstediğiniz Yere Seyahat Edin!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "İngilizce",
+    "ru": "Rusça",
+    "de": "Almanca",
+    "fr": "Fransızca",
+    "it": "İtalyanca",
+    "es": "İspanyolca",
+    "pl": "Lehçe",
+    "uk": "Ukraynaca",
+    "tr": "Türkçe",
+    "hu": "Macarca",
+    "sv": "İsveççe",
+    "pt": "Portekizce",
+    "sr": "Sırpça",
+    "ar": "Arapça",
+    "zh": "Çince",
+    "ja": "Japonca",
+    "vi": "Vietnamca",
+    "th": "Tayca",
+    "ko": "Korece",
+    "hi": "Hintçe",
+    "bn": "Bengalce",
+    "id": "Endonezce"
+  }
+}
+

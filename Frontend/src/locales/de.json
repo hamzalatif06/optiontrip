@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "tours": "Touren",
+    "destinations": "Reiseziele",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "login": "Anmelden/Registrieren",
+    "search": "Suchen",
+    "follow": "Folgen",
+    "followOnInstagram": "Auf Instagram folgen",
+    "quickLinks": "Schnelllinks",
+    "categories": "Kategorien",
+    "travel": "Reisen",
+    "newsletter": "Newsletter",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsConditions": "Allgemeine Geschäftsbedingungen",
+    "customerService": "Kundenservice",
+    "allRightsReserved": "Alle Rechte vorbehalten",
+    "emailAddress": "E-Mail-Adresse",
+    "subscribe": "Abonnieren",
+    "language": "Sprache"
+  },
+  "header": {
+    "location": "Hollywood, Amerika",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "Erkunden Sie die Welt",
+    "planDreamTrip": "Beginnen Sie heute mit der Planung Ihrer Traumreise!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "Camping",
+    "hiking": "Wandern",
+    "beachTours": "Strandtouren",
+    "surfing": "Surfen",
+    "safari": "Safari",
+    "cycling": "Radfahren",
+    "trekings": "Wanderungen"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "Postfach",
+    "location": "Standort",
+    "email": "E-Mail",
+    "website": "Website",
+    "newsletterDescription": "Schließen Sie sich unserer Gemeinschaft von über 200.000 Lesern weltweit an, die E-Mails mit Nachrichten, Angeboten und anderen interessanten Inhalten erhalten.",
+    "copyright": "OptionTrip. Alle Rechte vorbehalten."
+  },
+  "discountAction": {
+    "loveGoing": "Lieben Sie, wohin Sie gehen",
+    "exploreLife": "Erkunden Sie Ihr Leben,",
+    "travelWant": "Reisen Sie, wohin Sie wollen!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "Englisch",
+    "ru": "Russisch",
+    "de": "Deutsch",
+    "fr": "Französisch",
+    "it": "Italienisch",
+    "es": "Spanisch",
+    "pl": "Polnisch",
+    "uk": "Ukrainisch",
+    "tr": "Türkisch",
+    "hu": "Ungarisch",
+    "sv": "Schwedisch",
+    "pt": "Portugiesisch",
+    "sr": "Serbisch",
+    "ar": "Arabisch",
+    "zh": "Chinesisch",
+    "ja": "Japanisch",
+    "vi": "Vietnamesisch",
+    "th": "Thailändisch",
+    "ko": "Koreanisch",
+    "hi": "Hindi",
+    "bn": "Bengalisch",
+    "id": "Indonesisch"
+  }
+}
+

@@ -1,0 +1,90 @@
+{
+  "common": {
+    "home": "Home",
+    "about": "About Us",
+    "tours": "Tours",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "login": "Login/Register",
+    "search": "Search",
+    "follow": "Follow",
+    "followOnInstagram": "Follow on Instagram",
+    "quickLinks": "Quick link",
+    "categories": "Categories",
+    "travel": "Travel",
+    "newsletter": "Newsletter",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "customerService": "Customer Service",
+    "allRightsReserved": "All rights reserved",
+    "emailAddress": "Email Address",
+    "subscribe": "Subscribe",
+    "language": "Language"
+  },
+  "header": {
+    "location": "Hollywood, America",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "Explore The World",
+    "planDreamTrip": "Start Planning Your Dream Trip Today!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "Camping",
+    "hiking": "Hiking",
+    "beachTours": "Beach Tours",
+    "surfing": "Surfing",
+    "safari": "Safari",
+    "cycling": "Cycling",
+    "trekings": "Trekings"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "PO Box",
+    "location": "Location",
+    "email": "Email",
+    "website": "Website",
+    "newsletterDescription": "Join our community of over 200,000 global readers who receives emails filled with news, promotions, and other good stuff.",
+    "copyright": "OptionTrip. All rights reserved."
+  },
+  "discountAction": {
+    "loveGoing": "Love Where You're Going",
+    "exploreLife": "Explore Your Life,",
+    "travelWant": "Travel Where You Want!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "English",
+    "ru": "Russian",
+    "de": "German",
+    "fr": "French",
+    "it": "Italian",
+    "es": "Spanish",
+    "pl": "Polish",
+    "uk": "Ukrainian",
+    "tr": "Turkish",
+    "hu": "Hungarian",
+    "sv": "Swedish",
+    "pt": "Portuguese",
+    "sr": "Serbian",
+    "ar": "Arabic",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "vi": "Vietnamese",
+    "th": "Thai",
+    "ko": "Korean",
+    "hi": "Hindi",
+    "bn": "Bengali",
+    "id": "Indonesian"
+  },
+  "vi": {
+    "welcome": "Hello! 👋 I'm Vi, your AI travel assistant. I'm here to help you throughout your journey! To get started, could you please share your name or booking number?",
+    "disclaimer": "AI Assistant: Vi is an AI-powered assistant. Please double-check important or time-sensitive information.",
+    "online": "Online",
+    "placeholderNotIdentified": "Enter your name or booking number...",
+    "placeholderIdentified": "Ask me anything about your trip...",
+    "startNewConversation": "Start New Conversation",
+    "minimize": "Minimize"
+  }
+}
+

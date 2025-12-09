@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "หน้าแรก",
+    "about": "เกี่ยวกับเรา",
+    "tours": "ทัวร์",
+    "destinations": "จุดหมายปลายทาง",
+    "blog": "บล็อก",
+    "contact": "ติดต่อเรา",
+    "login": "เข้าสู่ระบบ/ลงทะเบียน",
+    "search": "ค้นหา",
+    "follow": "ติดตาม",
+    "followOnInstagram": "ติดตามบน Instagram",
+    "quickLinks": "ลิงก์ด่วน",
+    "categories": "หมวดหมู่",
+    "travel": "การท่องเที่ยว",
+    "newsletter": "จดหมายข่าว",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+    "termsConditions": "ข้อกำหนดและเงื่อนไข",
+    "customerService": "บริการลูกค้า",
+    "allRightsReserved": "สงวนลิขสิทธิ์",
+    "emailAddress": "ที่อยู่อีเมล",
+    "subscribe": "สมัครสมาชิก",
+    "language": "ภาษา"
+  },
+  "header": {
+    "location": "ฮอลลีวูด, อเมริกา",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "สำรวจโลก",
+    "planDreamTrip": "เริ่มวางแผนการเดินทางในฝันของคุณวันนี้!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "ตั้งแคมป์",
+    "hiking": "เดินป่า",
+    "beachTours": "ทัวร์ชายหาด",
+    "surfing": "โต้คลื่น",
+    "safari": "ซาฟารี",
+    "cycling": "ขี่จักรยาน",
+    "trekings": "เดินป่า"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "ตู้ไปรษณีย์",
+    "location": "สถานที่",
+    "email": "อีเมล",
+    "website": "เว็บไซต์",
+    "newsletterDescription": "เข้าร่วมชุมชนของเราที่มีผู้อ่านทั่วโลกกว่า 200,000 คนที่ได้รับอีเมลเต็มไปด้วยข่าวสาร โปรโมชันและสิ่งดีๆ อื่นๆ",
+    "copyright": "OptionTrip สงวนลิขสิทธิ์"
+  },
+  "discountAction": {
+    "loveGoing": "รักที่ที่คุณไป",
+    "exploreLife": "สำรวจชีวิตของคุณ,",
+    "travelWant": "เดินทางไปยังที่ที่คุณต้องการ!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "อังกฤษ",
+    "ru": "รัสเซีย",
+    "de": "เยอรมัน",
+    "fr": "ฝรั่งเศส",
+    "it": "อิตาลี",
+    "es": "สเปน",
+    "pl": "โปแลนด์",
+    "uk": "ยูเครน",
+    "tr": "ตุรกี",
+    "hu": "ฮังการี",
+    "sv": "สวีเดน",
+    "pt": "โปรตุเกส",
+    "sr": "เซอร์เบีย",
+    "ar": "อาหรับ",
+    "zh": "จีน",
+    "ja": "ญี่ปุ่น",
+    "vi": "เวียดนาม",
+    "th": "ไทย",
+    "ko": "เกาหลี",
+    "hi": "ฮินดี",
+    "bn": "เบงกาลี",
+    "id": "อินโดนีเซีย"
+  }
+}
+

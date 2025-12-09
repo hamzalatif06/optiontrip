@@ -1,0 +1,81 @@
+{
+  "common": {
+    "home": "홈",
+    "about": "회사 소개",
+    "tours": "투어",
+    "destinations": "목적지",
+    "blog": "블로그",
+    "contact": "문의하기",
+    "login": "로그인/등록",
+    "search": "검색",
+    "follow": "팔로우",
+    "followOnInstagram": "Instagram에서 팔로우",
+    "quickLinks": "빠른 링크",
+    "categories": "카테고리",
+    "travel": "여행",
+    "newsletter": "뉴스레터",
+    "privacyPolicy": "개인정보 보호정책",
+    "termsConditions": "이용 약관",
+    "customerService": "고객 서비스",
+    "allRightsReserved": "모든 권리 보유",
+    "emailAddress": "이메일 주소",
+    "subscribe": "구독",
+    "language": "언어"
+  },
+  "header": {
+    "location": "할리우드, 미국",
+    "dateFormat": "{{date}}"
+  },
+  "banner": {
+    "exploreWorld": "세계 탐험",
+    "planDreamTrip": "오늘 꿈의 여행을 계획하기 시작하세요!",
+    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "camping": "캠핑",
+    "hiking": "등산",
+    "beachTours": "해변 투어",
+    "surfing": "서핑",
+    "safari": "사파리",
+    "cycling": "사이클링",
+    "trekings": "트레킹"
+  },
+  "footer": {
+    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "poBox": "사서함",
+    "location": "위치",
+    "email": "이메일",
+    "website": "웹사이트",
+    "newsletterDescription": "뉴스, 프로모션 및 기타 흥미로운 내용으로 가득한 이메일을 받는 200,000명 이상의 글로벌 독자 커뮤니티에 참여하세요.",
+    "copyright": "OptionTrip. 모든 권리 보유."
+  },
+  "discountAction": {
+    "loveGoing": "가는 곳을 사랑하세요",
+    "exploreLife": "당신의 인생을 탐험하세요,",
+    "travelWant": "원하는 곳으로 여행하세요!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  "languages": {
+    "en": "영어",
+    "ru": "러시아어",
+    "de": "독일어",
+    "fr": "프랑스어",
+    "it": "이탈리아어",
+    "es": "스페인어",
+    "pl": "폴란드어",
+    "uk": "우크라이나어",
+    "tr": "터키어",
+    "hu": "헝가리어",
+    "sv": "스웨덴어",
+    "pt": "포르투갈어",
+    "sr": "세르비아어",
+    "ar": "아랍어",
+    "zh": "중국어",
+    "ja": "일본어",
+    "vi": "베트남어",
+    "th": "태국어",
+    "ko": "한국어",
+    "hi": "힌디어",
+    "bn": "벵골어",
+    "id": "인도네시아어"
+  }
+}
+
