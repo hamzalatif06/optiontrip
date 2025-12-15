@@ -24,9 +24,7 @@ const AboutSection = () => {
                 <h4 className="theme d-inline-block mb-0">Get To Know Us</h4>
                 <h2 className="border-b mb-2 pb-1">Explore All Tour of the world with us.</h2>
                 <p className="border-b mb-2 pb-2">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-                  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br /><br />Excepteur sint occaecat cupidatat non
-                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                  OptionTrip revolutionizes travel planning with cutting-edge AI technology that understands your unique preferences and creates personalized itineraries in minutes. Our intelligent system analyzes millions of travel data points, reviews, and real-time information to craft the perfect journey for every traveler.<br /><br />Whether you're seeking adventure, relaxation, culture, or business travel, our AI adapts to your needs, budget, and schedule. Experience seamless trip planning with recommendations that get smarter with every interaction.
                 </p>
                 <div className="about-listing">
                   <ul className="d-flex justify-content-between">

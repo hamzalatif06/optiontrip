@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Fedezze fel a világot",
     "planDreamTrip": "Kezdje el ma megtervezni álmai utazását!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Hagyja, hogy mesterséges intelligenciánk percek alatt létrehozza az Ön tökéletes utazási tervét. Egyszerűen írja le álmai utazását, és mi kezeljük a többit—a repülőjegyektől az aktivitásokig, mindent az Ön preferenciái szerint személyre szabva.",
     "camping": "Kemping",
     "hiking": "Túrázás",
     "beachTours": "Strand túrák",
@@ -39,7 +39,7 @@
     "trekings": "Trekking"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "Az OptionTrip egy mesterséges intelligenciával működő utazás-tervezési platform, amely személyre szabott utazási terveket készít az Ön preferenciái, költségvetése és utazási stílusa szerint. Fejlett mesterséges intelligenciát kombinálunk átfogó utazási adatokkal, hogy egyedi élményeket nyújtsunk, amelyek megfelelnek az Ön álmainak.",
     "poBox": "Postafiók",
     "location": "Helyszín",
     "email": "E-mail",
@@ -51,7 +51,7 @@
     "loveGoing": "Szeresse, hová megy",
     "exploreLife": "Fedezze fel az életét,",
     "travelWant": "Utazzon, ahová akar!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Kezdje el utazását még ma mesterséges intelligenciával működő utazástervezőnkkel. Szerezzen személyre szabott ajánlásokat, exkluzív ajánlatokat és zökkenőmentes foglalásokat—mindent egy helyen. Tökéletes kalandja vár."
   },
   "languages": {
     "en": "Angol",

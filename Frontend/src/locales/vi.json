@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Khám phá thế giới",
     "planDreamTrip": "Bắt đầu lập kế hoạch cho chuyến đi trong mơ của bạn ngay hôm nay!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Để AI của chúng tôi tạo lịch trình hoàn hảo cho bạn trong vài phút. Chỉ cần mô tả chuyến đi trong mơ của bạn, và chúng tôi sẽ xử lý phần còn lại—từ chuyến bay đến hoạt động, tất cả đều được cá nhân hóa theo sở thích của bạn.",
     "camping": "Cắm trại",
     "hiking": "Đi bộ đường dài",
     "beachTours": "Tours bãi biển",
@@ -39,7 +39,7 @@
     "trekings": "Trekking"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip là nền tảng lập kế hoạch du lịch được hỗ trợ bởi AI tạo ra các lịch trình du lịch cá nhân hóa phù hợp với sở thích, ngân sách và phong cách du lịch của bạn. Chúng tôi kết hợp trí tuệ nhân tạo tiên tiến với dữ liệu du lịch toàn diện để mang lại những trải nghiệm độc đáo phù hợp với ước mơ của bạn.",
     "poBox": "Hộp thư",
     "location": "Vị trí",
     "email": "Email",
@@ -51,7 +51,7 @@
     "loveGoing": "Yêu nơi bạn đến",
     "exploreLife": "Khám phá cuộc sống của bạn,",
     "travelWant": "Du lịch đến nơi bạn muốn!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Bắt đầu hành trình của bạn ngay hôm nay với công cụ lập kế hoạch du lịch được hỗ trợ bởi AI của chúng tôi. Nhận đề xuất cá nhân hóa, ưu đãi độc quyền và đặt chỗ liền mạch—tất cả ở một nơi. Cuộc phiêu lưu hoàn hảo của bạn đang chờ đợi."
   },
   "languages": {
     "en": "Tiếng Anh",

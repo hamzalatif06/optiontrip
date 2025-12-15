@@ -7,22 +7,22 @@ const AboutUs = () => {
     {
       icon: 'icon-flag',
       title: 'Tell Us What You want To Do',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing.'
+      description: 'Describe your dream trip in natural language. Our AI understands your travel goals, interests, and style preferences.'
     },
     {
       icon: 'icon-location-pin',
       title: 'Share Your Travel Locations',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing.'
+      description: 'Tell us your destination or let our AI suggest perfect places based on your interests, budget, and travel dates.'
     },
     {
       icon: 'icon-directions',
       title: 'Share Your Travel Preference',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing.'
+      description: 'Set your budget, travel dates, accommodation style, and activity preferences. Our AI learns what matters most to you.'
     },
     {
       icon: 'icon-compass',
       title: 'Get Your Perfect Trip with us',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing.'
+      description: 'Receive a fully personalized itinerary with day-by-day plans, recommendations, and booking options tailored just for you.'
     }
   ];
 
@@ -32,7 +32,7 @@ const AboutUs = () => {
         <div className="section-title mb-6 w-50 mx-auto text-center">
           <h4 className="mb-1 theme1">3 Step of The Perfect Tour</h4>
           <h2 className="mb-1">Find <span className="theme">Travel Perfection</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Planning your perfect trip is simple with our AI-powered platform. Just three easy steps to your personalized travel experience.</p>
         </div>
 
         <div className="why-us">

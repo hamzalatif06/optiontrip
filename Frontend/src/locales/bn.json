@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "বিশ্ব অন্বেষণ করুন",
     "planDreamTrip": "আজই আপনার স্বপ্নের ট্রিপ পরিকল্পনা করা শুরু করুন!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "আমাদের AI কে মিনিটের মধ্যে আপনার নিখুঁত ভ্রমণ পরিকল্পনা তৈরি করতে দিন। কেবল আপনার স্বপ্নের ট্রিপের বর্ণনা দিন, এবং আমরা বাকি সবকিছু পরিচালনা করব—ফ্লাইট থেকে কার্যক্রম পর্যন্ত, সবকিছু আপনার পছন্দ অনুযায়ী ব্যক্তিগতকৃত।",
     "camping": "ক্যাম্পিং",
     "hiking": "হাইকিং",
     "beachTours": "সমুদ্র সৈকত ট্যুর",
@@ -39,7 +39,7 @@
     "trekings": "ট্রেকিং"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip একটি AI-চালিত ভ্রমণ পরিকল্পনা প্ল্যাটফর্ম যা আপনার পছন্দ, বাজেট এবং ভ্রমণ শৈলীর সাথে মানানসই ব্যক্তিগতকৃত ভ্রমণ পরিকল্পনা তৈরি করে। আমরা উন্নত কৃত্রিম বুদ্ধিমত্তাকে বিস্তৃত ভ্রমণ ডেটার সাথে একত্রিত করি যাতে আপনার স্বপ্নের সাথে মিলে যায় এমন অনন্য অভিজ্ঞতা প্রদান করতে পারি।",
     "poBox": "পোস্ট বক্স",
     "location": "অবস্থান",
     "email": "ইমেইল",
@@ -51,7 +51,7 @@
     "loveGoing": "আপনি যেখানে যাচ্ছেন সেখানকে ভালোবাসুন",
     "exploreLife": "আপনার জীবন অন্বেষণ করুন,",
     "travelWant": "যেখানে চান সেখানে ভ্রমণ করুন!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "আমাদের AI-চালিত ভ্রমণ পরিকল্পনাকারীর সাথে আজই আপনার যাত্রা শুরু করুন। ব্যক্তিগতকৃত সুপারিশ, একচেটিয়া অফার এবং নিরবচ্ছিন্ন বুকিং পান—সবকিছু এক জায়গায়। আপনার নিখুঁত অ্যাডভেঞ্চার অপেক্ষা করছে।"
   },
   "languages": {
     "en": "ইংরেজি",

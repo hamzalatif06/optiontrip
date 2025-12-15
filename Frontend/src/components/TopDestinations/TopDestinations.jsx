@@ -17,7 +17,7 @@ const TopDestinations = () => {
         <div className="section-title mb-6 w-50 mx-auto text-center">
           <h4 className="mb-1 theme1">Top Destinations</h4>
           <h2 className="mb-1">Explore <span className="theme">Top Destinations</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Discover the world's most captivating destinations, each with unique experiences and personalized trip plans waiting for you.</p>
         </div>
         <div className="row align-items-center">
           <div className="col-lg-5 mb-4">

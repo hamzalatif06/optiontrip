@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Odkryj świat",
     "planDreamTrip": "Zacznij planować swoją wymarzoną podróż już dziś!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Pozwól naszej AI stworzyć Twój idealny plan podróży w kilka minut. Po prostu opisz swoją wymarzoną podróż, a my zajmiemy się resztą—od lotów po aktywności, wszystko spersonalizowane zgodnie z Twoimi preferencjami.",
     "camping": "Kemping",
     "hiking": "Wędrówki",
     "beachTours": "Wycieczki na plażę",
@@ -39,7 +39,7 @@
     "trekings": "Trekking"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip to platforma planowania podróży napędzana przez AI, która tworzy spersonalizowane plany podróży dostosowane do Twoich preferencji, budżetu i stylu podróżowania. Łączymy zaawansowaną sztuczną inteligencję z obszernymi danymi o podróżach, aby dostarczać unikalne doświadczenia odpowiadające Twoim marzeniom.",
     "poBox": "Skrytka pocztowa",
     "location": "Lokalizacja",
     "email": "E-mail",
@@ -51,7 +51,7 @@
     "loveGoing": "Kochaj dokąd idziesz",
     "exploreLife": "Odkryj swoje życie,",
     "travelWant": "Podróżuj dokąd chcesz!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Rozpocznij swoją podróż już dziś z naszym planerem podróży napędzanym przez AI. Otrzymuj spersonalizowane rekomendacje, ekskluzywne oferty i bezproblemowe rezerwacje—wszystko w jednym miejscu. Twoja idealna przygoda czeka."
   },
   "languages": {
     "en": "Angielski",

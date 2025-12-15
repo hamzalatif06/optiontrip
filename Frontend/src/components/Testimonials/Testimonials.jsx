@@ -4,16 +4,16 @@ import './Testimonials.css';
 const Testimonials = () => {
   const testimonials = [
     {
-      name: 'Jared Erondu',
-      role: 'Supervisor',
+      name: 'Sarah Chen',
+      role: 'Travel Enthusiast',
       image: '/images/testimonial/img1.jpg',
-      text: 'Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry\'s standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.'
+      text: 'OptionTrip\'s AI planner created the perfect 10-day itinerary for my European adventure. It understood my preferences for art, history, and local cuisine, and suggested hidden gems I never would have found on my own. The personalized recommendations saved me hours of research!'
     },
     {
-      name: 'Jared Erondu',
-      role: 'Supervisor',
+      name: 'Michael Rodriguez',
+      role: 'Business Traveler',
       image: '/images/testimonial/img1.jpg',
-      text: 'Lorem Ipsum is simply dummy text of the printing andypesetting industry. Lorem ipsum a simple Lorem Ipsum has been the industry\'s standard dummy hic et quidem. Dignissimos maxime velit unde inventore quasi vero dolorem.'
+      text: 'As someone who travels frequently for work, I love how OptionTrip adapts to my schedule and budget. The AI assistant suggested the most efficient routes and even found last-minute deals that fit my tight timeline. It\'s like having a personal travel agent available 24/7.'
     }
   ];
 
@@ -23,7 +23,7 @@ const Testimonials = () => {
         <div className="section-title mb-6 text-center w-75 mx-auto">
           <h4 className="mb-1 theme1">Our Testimonails</h4>
           <h2 className="mb-1">Good Reviews By <span className="theme">Clients</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Discover how our AI-powered trip planner has transformed travel experiences for thousands of satisfied customers worldwide.</p>
         </div>
         <div className="row align-items-center">
           <div className="col-lg-5 pe-4">

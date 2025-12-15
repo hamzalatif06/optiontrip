@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Explore The World",
     "planDreamTrip": "Start Planning Your Dream Trip Today!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Let our AI create your perfect itinerary in minutes. Simply describe your dream trip, and we'll handle the rest—from flights to activities, all personalized to your preferences.",
     "camping": "Camping",
     "hiking": "Hiking",
     "beachTours": "Beach Tours",
@@ -39,7 +39,7 @@
     "trekings": "Trekings"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip is an AI-powered travel planning platform that creates personalized trip itineraries tailored to your preferences, budget, and travel style. We combine advanced artificial intelligence with extensive travel data to deliver unique experiences that match your dreams.",
     "poBox": "PO Box",
     "location": "Location",
     "email": "Email",
@@ -51,7 +51,7 @@
     "loveGoing": "Love Where You're Going",
     "exploreLife": "Explore Your Life,",
     "travelWant": "Travel Where You Want!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Start your journey today with our AI-powered trip planner. Get personalized recommendations, exclusive deals, and seamless booking—all in one place. Your perfect adventure awaits."
   },
   "languages": {
     "en": "English",

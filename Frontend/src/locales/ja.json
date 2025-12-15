@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "世界を探索",
     "planDreamTrip": "今日から夢の旅を計画し始めましょう！",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "私たちのAIが数分で完璧な旅程を作成します。夢の旅を簡単に説明するだけで、残りはお任せください—フライトからアクティビティまで、すべてあなたの好みに合わせてパーソナライズされます。",
     "camping": "キャンプ",
     "hiking": "ハイキング",
     "beachTours": "ビーチツアー",
@@ -39,7 +39,7 @@
     "trekings": "トレッキング"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTripは、AIを活用した旅行計画プラットフォームで、あなたの好み、予算、旅行スタイルに合わせてパーソナライズされた旅行行程を作成します。高度な人工知能と豊富な旅行データを組み合わせて、あなたの夢に合ったユニークな体験を提供します。",
     "poBox": "私書箱",
     "location": "場所",
     "email": "メール",
@@ -51,7 +51,7 @@
     "loveGoing": "行く先を愛する",
     "exploreLife": "あなたの人生を探索、",
     "travelWant": "行きたい場所へ旅しましょう！",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "AIを活用した旅行計画ツールで、今日から旅を始めましょう。パーソナライズされた推奨事項、限定オファー、シームレスな予約—すべてが一箇所に。完璧な冒険があなたを待っています。"
   },
   "languages": {
     "en": "英語",

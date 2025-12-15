@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Досліджуйте світ",
     "planDreamTrip": "Почніть планувати свою мрію подорож сьогодні!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Дозвольте нашому ШІ створити ваш ідеальний маршрут за кілька хвилин. Просто опишіть подорож вашої мрії, і ми подбаємо про решту—від авіаквитків до активностей, все персоналізовано згідно з вашими уподобаннями.",
     "camping": "Кемпінг",
     "hiking": "Піші походи",
     "beachTours": "Пляжні тури",
@@ -39,7 +39,7 @@
     "trekings": "Треккінг"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip — це платформа для планування подорожей на базі ШІ, яка створює персоналізовані маршрути подорожей, адаптовані до ваших уподобань, бюджету та стилю подорожі. Ми поєднуємо передовий штучний інтелект з обширними даними про подорожі, щоб запропонувати унікальні враження, що відповідають вашим мріям.",
     "poBox": "Поштова скринька",
     "location": "Місцезнаходження",
     "email": "Електронна пошта",
@@ -51,7 +51,7 @@
     "loveGoing": "Любіть, куди ви йдете",
     "exploreLife": "Досліджуйте своє життя,",
     "travelWant": "Подорожуйте, куди хочете!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Почніть свою подорож сьогодні з нашим планувальником подорожей на базі ШІ. Отримайте персоналізовані рекомендації, ексклюзивні пропозиції та безшовне бронювання—все в одному місці. Ваша ідеальна пригода чекає."
   },
   "languages": {
     "en": "Англійська",

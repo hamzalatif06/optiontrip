@@ -6,25 +6,25 @@ const RecentArticles = () => {
   const articles = [
     {
       category: 'Technology',
-      title: 'How a developer duo at Deutsche Bank keep remote alive.',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod',
-      author: 'Sollmond Nell',
+      title: 'How AI is Revolutionizing Travel Planning in 2025',
+      description: 'Discover how artificial intelligence is transforming the way we plan trips, from personalized recommendations to real-time itinerary adjustments.',
+      author: 'Sarah Chen',
       authorImage: '/images/reviewer/2.jpg',
       image: '/images/trending/trending10.jpg'
     },
     {
       category: 'Inspiration',
-      title: 'Inspire Runner with Autism Graces of Women\'s Running',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod',
-      author: 'David Scott',
+      title: '10 Hidden Gems Discovered by Our AI Travel Planner',
+      description: 'Explore breathtaking destinations that our AI uncovered by analyzing millions of travel patterns and off-the-beaten-path experiences.',
+      author: 'Michael Rodriguez',
       authorImage: '/images/reviewer/1.jpg',
       image: '/images/trending/trending12.jpg'
     },
     {
-      category: 'Public',
-      title: 'Services To Grow Your Business Sell Affiliate Products',
-      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod',
-      author: 'John Bolden',
+      category: 'Tips',
+      title: 'Maximize Your Travel Budget with Smart AI Recommendations',
+      description: 'Learn how our AI-powered platform helps you find the best deals, optimize spending, and create unforgettable experiences within your budget.',
+      author: 'Emma Thompson',
       authorImage: '/images/reviewer/3.jpg',
       image: '/images/trending/trending13.jpg'
     }
@@ -36,7 +36,7 @@ const RecentArticles = () => {
         <div className="section-title mb-6 w-75 mx-auto text-center">
           <h4 className="mb-1 theme1">Our Blogs Offers</h4>
           <h2 className="mb-1">Recent <span className="theme">Articles & Posts</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Stay updated with the latest travel trends, AI insights, destination guides, and expert tips to make your next trip extraordinary.</p>
         </div>
         <div className="recent-articles-inner">
           <div className="row">

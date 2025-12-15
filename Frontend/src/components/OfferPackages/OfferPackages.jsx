@@ -21,7 +21,7 @@ const OfferPackages = () => {
         <div className="section-title mb-6 w-75 mx-auto text-center">
           <h4 className="mb-1 theme1">Top Offers</h4>
           <h2 className="mb-1">Special <span className="theme">Offers & Discount </span> Packages</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Take advantage of our exclusive offers and discounts on premium travel packages. Limited-time deals on unforgettable experiences.</p>
         </div>
         <div className="trend-box">
           <div className="row">
@@ -48,7 +48,7 @@ const OfferPackages = () => {
                       </div>
                       <span className="ms-2">({offer.reviews})</span>
                     </div>
-                    <p className="border-b pb-2 mb-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum</p>
+                    <p className="border-b pb-2 mb-2">Enjoy premium accommodations, expert guides, and carefully curated experiences in this exclusive destination.</p>
                     <div className="entry-meta">
                       <div className="entry-author d-flex align-items-center">
                         <p className="mb-0"><span className="theme fw-bold fs-5"> ${offer.price}.00</span> | Per person</p>

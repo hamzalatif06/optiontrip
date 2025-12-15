@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "สำรวจโลก",
     "planDreamTrip": "เริ่มวางแผนการเดินทางในฝันของคุณวันนี้!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "ให้ AI ของเราสร้างแผนการเดินทางที่สมบูรณ์แบบให้คุณในไม่กี่นาที เพียงอธิบายการเดินทางในฝันของคุณ และเราจะจัดการส่วนที่เหลือ—ตั้งแต่เที่ยวบินไปจนถึงกิจกรรม ทั้งหมดปรับแต่งตามความชอบของคุณ",
     "camping": "ตั้งแคมป์",
     "hiking": "เดินป่า",
     "beachTours": "ทัวร์ชายหาด",
@@ -39,7 +39,7 @@
     "trekings": "เดินป่า"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip เป็นแพลตฟอร์มการวางแผนการเดินทางที่ขับเคลื่อนด้วย AI ซึ่งสร้างแผนการเดินทางส่วนบุคคลที่ปรับให้เหมาะกับความชอบ งบประมาณ และสไตล์การเดินทางของคุณ เราใช้ปัญญาประดิษฐ์ขั้นสูงร่วมกับข้อมูลการเดินทางที่ครอบคลุมเพื่อมอบประสบการณ์ที่ไม่เหมือนใครที่ตรงกับความฝันของคุณ",
     "poBox": "ตู้ไปรษณีย์",
     "location": "สถานที่",
     "email": "อีเมล",
@@ -51,7 +51,7 @@
     "loveGoing": "รักที่ที่คุณไป",
     "exploreLife": "สำรวจชีวิตของคุณ,",
     "travelWant": "เดินทางไปยังที่ที่คุณต้องการ!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "เริ่มต้นการเดินทางของคุณวันนี้ด้วยเครื่องมือวางแผนการเดินทางที่ขับเคลื่อนด้วย AI ของเรา รับคำแนะนำส่วนบุคคล ข้อเสนอพิเศษ และการจองที่ราบรื่น—ทั้งหมดในที่เดียว การผจญภัยที่สมบูรณ์แบบของคุณรออยู่"
   },
   "languages": {
     "en": "อังกฤษ",

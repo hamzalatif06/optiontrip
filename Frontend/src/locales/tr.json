@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Dünyayı Keşfedin",
     "planDreamTrip": "Hayalinizdeki Gezisini Bugün Planlamaya Başlayın!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Yapay zekamızın birkaç dakika içinde mükemmel seyahat planınızı oluşturmasına izin verin. Sadece hayalinizdeki seyahati tarif edin, geri kalanını biz hallederiz—uçuşlardan aktivitelere kadar her şey tercihlerinize göre kişiselleştirilir.",
     "camping": "Kamp",
     "hiking": "Yürüyüş",
     "beachTours": "Plaj Turları",
@@ -39,7 +39,7 @@
     "trekings": "Trekking"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip, tercihlerinize, bütçenize ve seyahat tarzınıza göre özelleştirilmiş kişiselleştirilmiş seyahat planları oluşturan yapay zeka destekli bir seyahat planlama platformudur. Gelişmiş yapay zekayı kapsamlı seyahat verileriyle birleştirerek, hayallerinize uygun benzersiz deneyimler sunuyoruz.",
     "poBox": "Posta Kutusu",
     "location": "Konum",
     "email": "E-posta",
@@ -51,7 +51,7 @@
     "loveGoing": "Gittiğiniz Yeri Sevin",
     "exploreLife": "Hayatınızı Keşfedin,",
     "travelWant": "İstediğiniz Yere Seyahat Edin!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Yapay zeka destekli seyahat planlayıcımızla bugün yolculuğunuza başlayın. Kişiselleştirilmiş öneriler, özel teklifler ve sorunsuz rezervasyonlar alın—hepsi tek bir yerde. Mükemmel maceranız bekliyor."
   },
   "languages": {
     "en": "İngilizce",

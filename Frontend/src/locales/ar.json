@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "استكشف العالم",
     "planDreamTrip": "ابدأ في التخطيط لرحلتك المثالية اليوم!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "دع ذكاءنا الاصطناعي ينشئ خط سير رحلتك المثالي في دقائق. ما عليك سوى وصف رحلتك المثالية، وسنهتم بكل شيء—من الرحلات الجوية إلى الأنشطة، كل شيء مخصص وفقًا لتفضيلاتك.",
     "camping": "التخييم",
     "hiking": "المشي لمسافات طويلة",
     "beachTours": "جولات الشاطئ",
@@ -39,7 +39,7 @@
     "trekings": "المشي لمسافات طويلة"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip هي منصة تخطيط سفر مدعومة بالذكاء الاصطناعي تخلق خطط سفر مخصصة مصممة خصيصًا لتفضيلاتك وميزانيتك وأسلوب سفرك. نجمع بين الذكاء الاصطناعي المتقدم وبيانات السفر الشاملة لتقديم تجارب فريدة تتطابق مع أحلامك.",
     "poBox": "صندوق البريد",
     "location": "الموقع",
     "email": "البريد الإلكتروني",
@@ -51,7 +51,7 @@
     "loveGoing": "أحب المكان الذي تذهب إليه",
     "exploreLife": "استكشف حياتك،",
     "travelWant": "سافر إلى حيث تريد!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "ابدأ رحلتك اليوم مع مخطط رحلاتنا المدعوم بالذكاء الاصطناعي. احصل على توصيات مخصصة وعروض حصرية وحجوزات سلسة—كل ذلك في مكان واحد. مغامرتك المثالية في انتظارك."
   },
   "languages": {
     "en": "الإنجليزية",

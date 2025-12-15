@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Utforska världen",
     "planDreamTrip": "Börja planera din drömresa idag!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Låt vår AI skapa din perfekta resplan på några minuter. Beskriv helt enkelt din drömresa, så tar vi hand om resten—från flyg till aktiviteter, allt anpassat efter dina preferenser.",
     "camping": "Camping",
     "hiking": "Vandring",
     "beachTours": "Strandturer",
@@ -39,7 +39,7 @@
     "trekings": "Trekking"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip är en AI-driven reseplaneringsplattform som skapar personliga reseplaner anpassade efter dina preferenser, budget och resestil. Vi kombinerar avancerad artificiell intelligens med omfattande resedata för att leverera unika upplevelser som matchar dina drömmar.",
     "poBox": "Postbox",
     "location": "Plats",
     "email": "E-post",
@@ -51,7 +51,7 @@
     "loveGoing": "Älska vart du går",
     "exploreLife": "Utforska ditt liv,",
     "travelWant": "Res vart du vill!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Börja din resa idag med vår AI-drivna reseplanerare. Få personliga rekommendationer, exklusiva erbjudanden och sömlös bokning—allt på ett ställe. Ditt perfekta äventyr väntar."
   },
   "languages": {
     "en": "Engelska",

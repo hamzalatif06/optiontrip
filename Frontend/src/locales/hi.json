@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "दुनिया का अन्वेषण करें",
     "planDreamTrip": "आज ही अपनी सपनों की यात्रा की योजना बनाना शुरू करें!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "हमारी AI को मिनटों में आपकी सही यात्रा योजना बनाने दें। बस अपनी सपनों की यात्रा का वर्णन करें, और हम बाकी सब कुछ संभाल लेंगे—उड़ानों से लेकर गतिविधियों तक, सभी आपकी प्राथमिकताओं के अनुसार व्यक्तिगत।",
     "camping": "कैम्पिंग",
     "hiking": "हाइकिंग",
     "beachTours": "बीच टूर",
@@ -39,7 +39,7 @@
     "trekings": "ट्रेकिंग"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip एक AI-संचालित यात्रा नियोजन प्लेटफॉर्म है जो आपकी प्राथमिकताओं, बजट और यात्रा शैली के अनुरूप व्यक्तिगत यात्रा योजनाएं बनाता है। हम उन्नत कृत्रिम बुद्धिमत्ता को व्यापक यात्रा डेटा के साथ जोड़ते हैं ताकि आपके सपनों से मेल खाने वाले अनूठे अनुभव प्रदान कर सकें।",
     "poBox": "डाक पता",
     "location": "स्थान",
     "email": "ईमेल",
@@ -51,7 +51,7 @@
     "loveGoing": "जहां आप जा रहे हैं वहां से प्यार करें",
     "exploreLife": "अपने जीवन का अन्वेषण करें,",
     "travelWant": "जहां चाहें वहां यात्रा करें!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "हमारे AI-संचालित यात्रा नियोजक के साथ आज ही अपनी यात्रा शुरू करें। व्यक्तिगत सुझाव, विशेष ऑफर और सहज बुकिंग प्राप्त करें—सभी एक ही स्थान पर। आपका सही रोमांच इंतजार कर रहा है।"
   },
   "languages": {
     "en": "अंग्रेजी",

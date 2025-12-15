@@ -24,7 +24,7 @@ const BestTours = () => {
             <div className="section-title text-center text-lg-start">
               <h4 className="mb-1 theme1">Top Pick</h4>
               <h2 className="mb-1">Best <span className="theme">Tour Packages</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+              <p>Explore our curated collection of handpicked tour packages, each carefully designed by our AI to match different travel styles and preferences.</p>
             </div>
           </div>
           <div className="col-lg-5"></div>
@@ -53,7 +53,7 @@ const BestTours = () => {
                       </div>
                       <span className="ms-2">({tour.reviews})</span>
                     </div>
-                    <p className="border-b pb-2 mb-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum</p>
+                    <p className="border-b pb-2 mb-2">Immerse yourself in stunning landscapes, rich culture, and unforgettable experiences in this carefully selected destination.</p>
                     <div className="entry-meta">
                       <div className="entry-author d-flex align-items-center">
                         <p className="mb-0"><span className="theme fw-bold fs-5"> ${tour.price}.00</span> | Per person</p>

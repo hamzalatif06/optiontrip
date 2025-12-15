@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "探索世界",
     "planDreamTrip": "今天开始计划您的梦想之旅！",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "让我们的AI在几分钟内为您创建完美的行程。只需描述您的梦想之旅，我们将处理其余的一切—从航班到活动，一切都根据您的喜好个性化定制。",
     "camping": "露营",
     "hiking": "徒步旅行",
     "beachTours": "海滩之旅",
@@ -39,7 +39,7 @@
     "trekings": "徒步旅行"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip是一个由AI驱动的旅行规划平台，可根据您的偏好、预算和旅行风格创建个性化的旅行行程。我们将先进的人工智能与广泛的旅行数据相结合，提供与您的梦想相匹配的独特体验。",
     "poBox": "邮箱",
     "location": "位置",
     "email": "电子邮件",
@@ -51,7 +51,7 @@
     "loveGoing": "热爱您要去的地方",
     "exploreLife": "探索您的生活，",
     "travelWant": "去您想去的地方旅行！",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "今天就开始您的旅程，使用我们由AI驱动的旅行规划器。获得个性化推荐、独家优惠和无缝预订—一切尽在一处。您的完美冒险正在等待。"
   },
   "languages": {
     "en": "英语",

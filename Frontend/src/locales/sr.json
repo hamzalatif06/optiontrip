@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Истражите свет",
     "planDreamTrip": "Почните да планирате своје снове путовање данас!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Дозволите нашој AI да створи ваш савршени план путовања за неколико минута. Једноставно опишите своје снове путовање, а ми ћемо се побринути за остало—од летова до активности, све персонализовано према вашим преференцама.",
     "camping": "Кампирање",
     "hiking": "Пешачење",
     "beachTours": "Плажне туре",
@@ -39,7 +39,7 @@
     "trekings": "Трекинг"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip је платформа за планирање путовања покретана AI-јем која ствара персонализоване планове путовања прилагођене вашим преференцама, буџету и стилу путовања. Комбинујемо напредну вештачку интелигенцију са свеобухватним подацима о путовањима како бисмо пружили јединствена искуства која одговарају вашим сновима.",
     "poBox": "Поштански фах",
     "location": "Локација",
     "email": "Е-пошта",
@@ -51,7 +51,7 @@
     "loveGoing": "Волите где идете",
     "exploreLife": "Истражите свој живот,",
     "travelWant": "Путујте где желите!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Започните своје путовање данас са нашим AI-покретаним планирачем путовања. Добијте персонализоване препоруке, ексклузивне понуде и беспрекоран резервацију—све на једном месту. Ваша савршена авантура чека."
   },
   "languages": {
     "en": "Енглески",

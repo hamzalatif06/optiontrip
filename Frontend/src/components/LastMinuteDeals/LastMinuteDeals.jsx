@@ -28,7 +28,7 @@ const LastMinuteDeals = () => {
         <div className="section-title mb-6 w-75 mx-auto text-center">
           <h4 className="mb-1 theme1">Top Deals</h4>
           <h2 className="mb-1">The Last <span className="theme">Minute Deals</span></h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.</p>
+          <p>Discover incredible last-minute deals on handpicked destinations. Our AI finds the best prices and creates personalized itineraries for spontaneous travelers.</p>
         </div>
         <div className="trend-box">
           <div className="row">
@@ -85,7 +85,7 @@ const LastMinuteDeals = () => {
                           </div>
                           <span className="ms-2">({deal.reviews})</span>
                         </div>
-                        <p className="border-b pb-2 mb-2">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum</p>
+                        <p className="border-b pb-2 mb-2">Experience breathtaking landscapes, rich cultural heritage, and unforgettable adventures in this stunning destination.</p>
                         <div className="entry-meta">
                           <div className="entry-author d-flex align-items-center">
                             <p className="mb-0"><span className="theme fw-bold fs-5"> ${deal.price}.00</span> | Per person</p>

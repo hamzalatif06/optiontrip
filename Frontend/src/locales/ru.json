@@ -29,7 +29,7 @@
   "banner": {
     "exploreWorld": "Исследуйте мир",
     "planDreamTrip": "Начните планировать поездку своей мечты сегодня!",
-    "bannerDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore",
+    "bannerDescription": "Позвольте нашему ИИ создать ваш идеальный маршрут за считанные минуты. Просто опишите поездку своей мечты, а мы позаботимся обо всем остальном—от авиабилетов до развлечений, все персонализировано согласно вашим предпочтениям.",
     "camping": "Кемпинг",
     "hiking": "Пешие походы",
     "beachTours": "Пляжные туры",
@@ -39,7 +39,7 @@
     "trekings": "Треккинг"
   },
   "footer": {
-    "aboutDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio suspendisse leo neque iaculis molestie sagittis maecenas aenean eget molestie sagittis.",
+    "aboutDescription": "OptionTrip — это платформа для планирования путешествий на базе ИИ, которая создает персонализированные маршруты поездок, адаптированные к вашим предпочтениям, бюджету и стилю путешествия. Мы сочетаем передовой искусственный интеллект с обширными данными о путешествиях, чтобы предложить уникальные впечатления, соответствующие вашим мечтам.",
     "poBox": "Почтовый ящик",
     "location": "Местоположение",
     "email": "Электронная почта",
@@ -51,7 +51,7 @@
     "loveGoing": "Любите, куда вы идете",
     "exploreLife": "Исследуйте свою жизнь,",
     "travelWant": "Путешествуйте, куда хотите!",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "description": "Начните свое путешествие сегодня с нашим планировщиком поездок на базе ИИ. Получите персонализированные рекомендации, эксклюзивные предложения и удобное бронирование—все в одном месте. Ваше идеальное приключение ждет."
   },
   "languages": {
     "en": "Английский",
